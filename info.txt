@@ -1,0 +1,5 @@
+types in typescript
+1.never
+2.unknown
+3.undefined
+4.An enum is a special "class" that represents a group of constants (unchangeable variables).
